@@ -1,6 +1,6 @@
 # Nodejs-auto-download-server
 
-
+## Useage
 ```
 git clone git@github.com:yyleocn/Nodejs-auto-download-server.git
 cd Nodejs-auto-download-server
@@ -20,3 +20,4 @@ $.ajax({
     console.log(data_);
 });
 ```
+* Then file will be download to the 'download' folder.
